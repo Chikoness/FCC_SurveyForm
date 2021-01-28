@@ -1,0 +1,50 @@
+#container-fluid {
+	background: url("https://img.wallpapersafari.com/desktop/1920/1080/28/7/NTHeoM.png");
+	padding: 20px;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'Roboto', sans-serif;
+}
+
+.header, .introduction {
+	opacity: 80%;
+	padding: 30px 15px;
+	background-color: #00509d;
+	color: #FFD500;
+	border-radius: 20px 20px 0 0;
+	margin: auto;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.formContainer {
+	opacity: 80%;
+	background-color: #FFD500;
+	color: #00296B;
+	padding: 50px;
+	border-radius: 0 0 20px 20px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.form-group {
+	padding: 10px 0;
+}
+
+.button {
+	margin-top: 50px;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.btn {
+	width: 200px;
+	height: 50px;
+	font-weight: bold;
+	background-color: #00509D;
+	outline: none;
+	border: none;
+}
